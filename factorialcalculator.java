@@ -7,6 +7,6 @@ public class factorialcalculator {
             factorial *= i;  // Multiply current number
         }
 
-        System.out.println("Factorial of " + num + " is: " + factorial);
+        System.out.println("Factorial of " + num + " is: " + factorial + " Looks good!");
     }
 }
