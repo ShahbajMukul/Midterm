@@ -2,7 +2,7 @@ public class factorialcalculator {
     public static void main(String[] args) {
         int num = 10;  // Predefined number to calculate factorial
         int factorial = 1;
-        System.out.println("Hello World");
+        System.out.println("This is working now");
         for (int i = 1; i <= num; i++) { // Loop through numbers
             factorial *= i;  // Multiply current number
         }
